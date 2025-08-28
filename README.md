@@ -1,4 +1,4 @@
-# customer-churn-analysis-elevatelabs-internship
+# CustomerChurn_Analysis
 ML-powered churn prediction and Power BI insights
 
 **Project Title:** Customer Churn Analysis & Segment Insights  

@@ -24,6 +24,6 @@ To predict customer churn and segment customers into actionable groups (At Risk,
 - Python (Jupyter Notebook)  
 - Libraries: Pandas, Seaborn, Matplotlib, Scikit-learn  
 - Power BI
-- 
+
 ---
 
